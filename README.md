@@ -4,6 +4,19 @@
 </p>
 
 <p align="center">
+  Haoyu Zhang<sup>1</sup>,
+  Zhipeng Li<sup>2</sup>,
+  Yiwen Guo<sup>3†</sup>,
+  Tianshu Yu<sup>1†</sup>
+  <br>
+  <sup>1</sup><b>The Chinese University of Hong Kong, Shenzhen</b>
+  &nbsp;&nbsp; <sup>2</sup><b>LIGHTSPEED</b>
+  &nbsp;&nbsp; <sup>3</sup><b>Independent Researcher</b>
+  <br>
+  <sup>†</sup>Corresponding Authors
+</p>
+
+<p align="center">
   <a href="https://arxiv.org/pdf/2602.07106v2">
     <img src="https://img.shields.io/badge/arXiv-2602.07106-b31b1b.svg?logo=arxiv" alt="arXiv 2602.07106" />
   </a>
