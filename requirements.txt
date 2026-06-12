@@ -1,0 +1,12 @@
+einops
+flash_attn==2.7.4.post1
+gradio==6.3.0
+hyperpyyaml==1.2.3
+matcha_tts==0.0.7.2
+numpy==2.4.6
+omegaconf==2.3.0
+pytorch3d
+torch==2.7.0+cu126
+torchaudio==2.7.0+cu126
+tqdm
+transformers==4.52.4
