@@ -75,7 +75,7 @@ Prepare the following assets before running inference:
 
 | Component | Expected Path | Source |
 |:--|:--|:--|
-| Ex-Omni checkpoint | `ckpt/Ex-Omni/` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-lemonade666%2FEx--Omni-yellow?logo=huggingface)](https://huggingface.co/Tencent/Ex-Omni) |
+| Ex-Omni checkpoint | `ckpt/Ex-Omni/` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Tencent%2FEx--Omni-yellow?logo=huggingface)](https://huggingface.co/Tencent/Ex-Omni) |
 | Flow decoder checkpoint | `ckpt/glm-4-voice-decoder/flow.pt` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-zai--org%2Fglm--4--voice--decoder-yellow?logo=huggingface)](https://huggingface.co/zai-org/glm-4-voice-decoder) |
 | HiFT decoder checkpoint | `ckpt/glm-4-voice-decoder/hift.pt` | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-zai--org%2Fglm--4--voice--decoder-yellow?logo=huggingface)](https://huggingface.co/zai-org/glm-4-voice-decoder) |
 | EmoTalk mesh template | `asset/EmoTalk.npz` | [![GitHub](https://img.shields.io/badge/GitHub-X--niper%2FUniTalker-181717?logo=github)](https://github.com/X-niper/UniTalker) |
